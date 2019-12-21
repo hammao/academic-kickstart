@@ -23,6 +23,8 @@ n Hugo, themes control the entire appearance and functionality of your site. So,
 
 After you have found a satisfactory theme, you need to figure out its GitHub username and repository name,18 then either install the theme via blogdown::install_theme(), or just create a new site under another new directory and pass the GitHub repository name to the theme argument of new_site(). We recommend that you use the second approach, because Hugo themes could be very complicated and the usage of each theme can be very different and highly dependent on config.toml. If you install a theme using install_theme() instead of new_site() you’ll need to manually create the config.toml file in the root directory of your website to match the newly installed theme.19
 
+Now use the Serve Site addin and check if you like your images. You might want to change the height/widths or alternate text. You could also wrap the HTML/Markdown code around it for linking to a website.
 
+You can also delete your original images, if for example, they are cluttering your 
 
 ![](/post/2019-12-22-new-post_files/index.jpeg)
