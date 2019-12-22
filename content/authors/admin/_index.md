@@ -18,18 +18,19 @@ organizations:
   url: "www.kfupm.edu.sa"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include marine micropaleontology, microscopy, spectroscopy applications of artificial intelligence and machine learning in paleontology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Micropaleontology
+- Microscopy and Spectroscopy 
+- Biostatistics
+- Applications of Artificial Intelligence and Machine Learning in paleontology
 
 education:
   courses:
   - course: PhD in Geology
     institution: King Fahd University of Petroleum and Minerals 
-    year: 2016
+    year: 2017
   - course: M.Sc.in Environmental Sciences
     institution: King Fahd University of Petroleum and Minerals 
     year: 2012
@@ -55,7 +56,7 @@ social:
   icon_pack: fab
   link: https://github.com/hammao
 # Link to a PDF of your resume/CV from the About widget.
- #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -70,5 +71,6 @@ user_groups:
 - Visitors
 ---
 
+I'm a multidisciplinary geologist by training ...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
